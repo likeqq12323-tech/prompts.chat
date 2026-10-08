@@ -21,5 +21,3 @@ export { ValidationDemo, FallbackDemo, ContentPipelineDemo } from "./chain-demos
 export { FillInTheBlank, InteractiveChecklist, PromptDebugger } from "./exercises";
 export { PromptBuilder, PromptAnalyzer } from "./builder";
 export { PromptChallenge, BeforeAfterEditor } from "./challenge";
-export { HarnessDemo } from "./harness-demo";
-export { ToolsDemo } from "./tools-demo";
